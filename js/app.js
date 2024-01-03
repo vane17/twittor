@@ -2,7 +2,7 @@
 var url = window.location.href;
 var swLocation = '/twittor/sw.js';
 
-
+console.log('hola')
 if ( navigator.serviceWorker ) {
 
 
